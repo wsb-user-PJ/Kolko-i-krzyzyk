@@ -1,0 +1,10 @@
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\bin\Debug\kolko&krzyzykcs.exe.config
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\bin\Debug\kolko&krzyzykcs.exe
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\bin\Debug\kolko&krzyzykcs.pdb
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko&krzyzykcs.csproj.AssemblyReference.cache
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko_krzyzykcs.Form1.resources
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko_krzyzykcs.Properties.Resources.resources
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko&krzyzykcs.csproj.GenerateResource.cache
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko&krzyzykcs.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko&krzyzykcs.exe
+C:\Users\Piotrek\Documents\Studia\kolko&krzyzykcs\kolko&krzyzykcs\obj\Debug\kolko&krzyzykcs.pdb
